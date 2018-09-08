@@ -1,0 +1,7 @@
+[[redirects]]
+ from = "/no_reachable.html"
+ to = "/"
+ status = 301
+ [redirects.headers]
+  X-From = "Netlify"
+  X-Sample-Header = "sample-header"
